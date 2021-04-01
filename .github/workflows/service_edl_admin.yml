@@ -1,5 +1,5 @@
 # GitHub Workflow to build the 'EDL Admin' service using Docker
-
+# test 1
 # The 'EDL Admin' service is a Go (Golang) app that is used to
 # approve or deny requests from the 'Unblock Request' service.
 # This app reads the current list of requests from the Redis
